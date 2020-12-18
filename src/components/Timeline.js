@@ -15,7 +15,7 @@ const Timeline = (props) => {
   })
 
   return(
-    <div>
+    <div className="timeline">
       {timelineEventComponents}
     </div>
     
