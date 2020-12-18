@@ -16,7 +16,7 @@ function App() {
         <h1 className="App-title">Ada Lovelace's social media feed</h1>
       </header>
       <main className="App-main">
-        <TimelineEvent person="Tram" status="Available" timestamp="12:33:44" />
+        <TimelineEvent person="Ada Lovelace" status="The Original programmer... old-school style, on PAPER." timeStamp="2018-05-18T22:12:03Z" />
       </main>
     </div>
   );
